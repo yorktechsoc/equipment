@@ -1,10 +1,10 @@
 # Site settings
-title: NTLX
-email: webmaster@newtheatre.org.uk
+title: YorkTechSoc
+email: techsoc@yusu.org
 description: >
-  New Theate's lighting stock
+  York Tech Soc's Equipment Catalogue
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://lx.newtheatre.org.uk" # the base hostname & protocol for your site
+url: "https://yorktechsoc.github.io/equipment/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
